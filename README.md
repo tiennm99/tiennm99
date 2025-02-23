@@ -21,4 +21,4 @@ Just a developer want to be magician
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiennm99&theme=dracula)
 ![Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiennm99&theme=dracula&utcOffset=7)
 
-__Using [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards))__
+__Using [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)__
