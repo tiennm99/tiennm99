@@ -9,11 +9,11 @@ Just a developer want to be magician
 
 ## Contact
 
-[Outlook] (mailto:tiennm99@outlook.com)
+[Outlook](mailto:tiennm99@outlook.com)
 [Facebook](https://www.facebook.com/tiennm99)
 [Linkedin](https://www.linkedin.com/in/miti99/)
 
-## Stats (from [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## Stats (from [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards))
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiennm99&theme=default)
 ![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiennm99&theme=default)
