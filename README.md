@@ -13,10 +13,12 @@ Just a developer want to be magician
 [Facebook](https://www.facebook.com/tiennm99)
 [Linkedin](https://www.linkedin.com/in/miti99/)
 
-## Stats (from [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards))
+## Stats
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiennm99&theme=dracula)
 ![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiennm99&theme=dracula)
 ![Most commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiennm99&theme=dracula)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiennm99&theme=dracula)
 ![Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiennm99&theme=dracula&utcOffset=7)
+
+__Using [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards))__
