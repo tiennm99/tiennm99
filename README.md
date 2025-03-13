@@ -2,16 +2,19 @@
 
 ## About me
 
-Just a developer want to be magician
+A passionate developer who believes in the magic of code. I transform complex problems into elegant solutions, turning ideas into reality through the art of programming.
 
-[PDF CV](https://tiennm99.github.io/cv/miti99.pdf)
-[Web CV](https://tiennm99.github.io/webcv)
+My nickname `miti99` is a creative fusion of my Vietnamese name "Nguyễn Minh Tiến" and my birth year 1999. It represents both my identity and my journey in the tech world.
+
+[📝 Blog](https://tiennm99.github.io/)
+[📄 PDF CV](https://tiennm99.github.io/cv/miti99.pdf)
+[🌐 Web CV](https://tiennm99.github.io/webcv)
 
 ## Contact
 
-[Outlook](mailto:tiennm99@outlook.com)
-[Facebook](https://www.facebook.com/tiennm99)
-[Linkedin](https://www.linkedin.com/in/miti99/)
+[📧 Outlook](mailto:tiennm99@outlook.com)
+[👥 Facebook](https://www.facebook.com/tiennm99)
+[💼 Linkedin](https://www.linkedin.com/in/miti99/)
 
 ## Stats
 
