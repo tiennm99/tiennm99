@@ -18,10 +18,10 @@ My nickname `miti99` is a creative fusion of my Vietnamese name "Nguyễn Minh T
 
 ## Stats
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiennm99&theme=dracula)
-![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiennm99&theme=dracula)
-![Most commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiennm99&theme=dracula)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiennm99&theme=dracula)
-![Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiennm99&theme=dracula&utcOffset=7)
+![Profile details](profile-summary-card-output/dracula/0-profile-details.svg)
+![Repos per language](profile-summary-card-output/dracula/1-repos-per-language.svg)
+![Most commit language](profile-summary-card-output/dracula/2-most-commit-language.svg)
+![Stats](profile-summary-card-output/dracula/3-stats.svg)
+![Productive time](profile-summary-card-output/dracula/4-productive-time.svg)
 
 _Using [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
