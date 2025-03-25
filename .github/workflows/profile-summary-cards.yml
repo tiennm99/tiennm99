@@ -3,7 +3,7 @@ name: GitHub-Profile-Summary-Cards
 on:
   create:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 17 * * *" # Runs at 00:00 UTC+7 (which is 17:00 UTC the previous day)
   workflow_dispatch:
 
 jobs:
