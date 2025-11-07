@@ -6,15 +6,17 @@ A passionate developer who believes in the magic of code. I transform complex pr
 
 My nickname `miti99` is a creative fusion of my Vietnamese name "Nguyễn Minh Tiến" and my birth year 1999. It represents both my identity and my journey in the tech world.
 
-[📝 Blog](https://tiennm99.github.io/)
-[📄 PDF CV](https://tiennm99.github.io/cv/miti99.pdf)
-[🌐 Web CV](https://tiennm99.github.io/webcv)
+## Links
+
+[![Blog](https://img.shields.io/badge/📝%20Blog-%23000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://tiennm99.github.io/)
+[![PDF CV](https://img.shields.io/badge/📄%20PDF%20CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tiennm99.github.io/cv/miti99.pdf)
+[![Web CV](https://img.shields.io/badge/🌐%20Web%20CV-0A66C2?style=for-the-badge&logo=about.me&logoColor=white)](https://tiennm99.github.io/webcv)
 
 ## Contact
 
-[📧 Outlook](mailto:tiennm99@outlook.com)
-[👥 Facebook](https://www.facebook.com/tiennm99)
-[💼 Linkedin](https://www.linkedin.com/in/miti99/)
+[![Outlook](https://img.shields.io/badge/📧%20Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:tiennm99@outlook.com)
+[![Facebook](https://img.shields.io/badge/👥%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tiennm99)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miti99/)
 
 ## Stats
 
