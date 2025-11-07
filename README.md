@@ -10,9 +10,9 @@ My nickname `miti99` is a creative fusion of my Vietnamese name "Nguyễn Minh T
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-121013?style=for-the-badge&logo=githubpages&logoColor=white)](https://tiennm99.github.io/)
-[![PDF CV](https://img.shields.io/badge/PDF%20CV-E60023?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tiennm99.github.io/cv/miti99.pdf)
-[![Web CV](https://img.shields.io/badge/Web%20CV-0A66C2?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://tiennm99.github.io/webcv)
+[📝 Blog](https://tiennm99.github.io/)
+[📄 PDF CV](https://tiennm99.github.io/cv/miti99.pdf)
+[🌐 Web CV](https://tiennm99.github.io/webcv)
 
 </div>
 
@@ -20,9 +20,9 @@ My nickname `miti99` is a creative fusion of my Vietnamese name "Nguyễn Minh T
 
 <div align="center">
 
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:tiennm99@outlook.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tiennm99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miti99/)
+[📧 Outlook](mailto:tiennm99@outlook.com)
+[👥 Facebook](https://www.facebook.com/tiennm99)
+[💼 Linkedin](https://www.linkedin.com/in/miti99/)
 
 </div>
 
