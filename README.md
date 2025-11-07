@@ -27,11 +27,13 @@ My nickname `miti99` is a creative fusion of my Vietnamese name "Nguyễn Minh T
 </div>
 
 <div align="center">
-  <img src="profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile details">
-  <img src="profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per language">
-  <img src="profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most commit language">
-  <img src="profile-summary-card-output/dracula/3-stats.svg" alt="Stats">
-  <img src="profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive time">
+
+![Profile details](profile-summary-card-output/dracula/0-profile-details.svg)
+![Repos per language](profile-summary-card-output/dracula/1-repos-per-language.svg)
+![Most commit language](profile-summary-card-output/dracula/2-most-commit-language.svg)
+![Stats](profile-summary-card-output/dracula/3-stats.svg)
+![Productive time](profile-summary-card-output/dracula/4-productive-time.svg)
+
 </div>
 
 _Using [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
