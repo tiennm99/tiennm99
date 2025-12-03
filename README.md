@@ -6,9 +6,11 @@
 
 ## About me
 
-A passionate developer who believes in the magic of code. I transform complex problems into elegant solutions, turning ideas into reality through the art of programming.
+> Just a developer wants to be magician
 
-My nickname `miti99` is a creative fusion of my Vietnamese name "Nguyễn Minh Tiến" and my birth year 1999. It represents both my identity and my journey in the tech world.
+I am a passionate developer who believes in the magic of code. I enjoy turning complex problems into elegant solutions and bringing ideas to life through the art of programming.
+
+My main nickname `miti99`[^1] is a creative fusion of my Vietnamese name "Nguyễn Minh Tiến" and my birth year 1999. It represents both my identity and my journey in the tech world.
 
 ## Links
 
@@ -45,3 +47,9 @@ My nickname `miti99` is a creative fusion of my Vietnamese name "Nguyễn Minh T
 _Using [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
 
 </div>
+
+[^1]: When `miti99` is unavailable (like GitHub :v), I often use `tiennm99`, which incorporates parts of my last name, first name, middle name, and birth year.
+
+    Another common username is `tienthieusac` (“Tiên Thiếu Sắc”), which reflects how “Tiến” becomes “Tien” when written without the accent.
+
+    If none of these are available, I may use other minor usernames, although I do not keep track of all of them.
