@@ -6,11 +6,11 @@
 
 ## About me
 
-> Just a developer wants to be magician
+> Just a developer who wants to be a magician
 
 I am a passionate developer who believes in the magic of code. I enjoy turning complex problems into elegant solutions and bringing ideas to life through the art of programming.
 
-My main nickname `miti99`[^1] is a creative fusion of my Vietnamese name "Nguyễn Minh Tiến" and my birth year 1999. It represents both my identity and my journey in the tech world.
+My main nickname `miti99`[^username] is a creative fusion of my Vietnamese name "Nguyễn Minh Tiến" and my birth year, 1999. It represents both my identity and my journey in the tech world.
 
 ## Links
 
@@ -28,7 +28,7 @@ My main nickname `miti99`[^1] is a creative fusion of my Vietnamese name "Nguy�
 
 [📧 Outlook](mailto:tiennm99@outlook.com)
 [👥 Facebook](https://www.facebook.com/tiennm99)
-[💼 Linkedin](https://www.linkedin.com/in/miti99/)
+[💼 LinkedIn](https://www.linkedin.com/in/miti99/)
 
 </div>
 
@@ -48,8 +48,10 @@ _Using [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profi
 
 </div>
 
-[^1]: When `miti99` is unavailable (like GitHub :v), I often use `tiennm99`, which incorporates parts of my last name, first name, middle name, and birth year.
+[^username]: When `miti99` is unavailable (like GitHub :v), I often use `tiennm99`, which incorporates parts of my last name, first name, middle name, and birth year.
 
-    Another common username is `tienthieusac` (“Tiên Thiếu Sắc”), which reflects how “Tiến” becomes “Tien” when written without the accent.
+    Another common username is `tienthieusac` (_Tiên Thiếu Sắc_[^tienthieusac]), which means _Tiên_ is _Tiến_ without the accent.
 
     If none of these are available, I may use other minor usernames, although I do not keep track of all of them.
+
+[^tienthieusac]: This is inspired by [Nguyễn Tuân](https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Tu%C3%A2n)'s pen name: _Tuấn Thừa Sắc_, which represents how _Tuân_ becomes _Tuấn_ with an optional accent.
