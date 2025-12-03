@@ -10,7 +10,7 @@
 
 I am a passionate developer who believes in the magic of code. I enjoy turning complex problems into elegant solutions and bringing ideas to life through the art of programming.
 
-My main nickname `miti99`[^username] is a creative fusion of my Vietnamese name "Nguyễn Minh Tiến" and my birth year, 1999. It represents both my identity and my journey in the tech world.
+My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Nguyễn Minh Tiến" and my birth year, 1999[^username]. It represents both my identity and my journey in the tech world.
 
 ## Links
 
@@ -34,11 +34,11 @@ My main nickname `miti99`[^username] is a creative fusion of my Vietnamese name 
 
 <div align="center">
 
-![Profile details](profile-summary-card-output/dracula/0-profile-details.svg)
-![Repos per language](profile-summary-card-output/dracula/1-repos-per-language.svg)
-![Most commit language](profile-summary-card-output/dracula/2-most-commit-language.svg)
+![tiennm99](profile-summary-card-output/dracula/0-profile-details.svg)
+![Top Languages by Repo](profile-summary-card-output/dracula/1-repos-per-language.svg)
+![Top Languages by Commit](profile-summary-card-output/dracula/2-most-commit-language.svg)
 ![Stats](profile-summary-card-output/dracula/3-stats.svg)
-![Productive time](profile-summary-card-output/dracula/4-productive-time.svg)
+![Commits](profile-summary-card-output/dracula/4-productive-time.svg)
 
 </div>
 
@@ -48,9 +48,9 @@ _Using [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profi
 
 </div>
 
-[^username]: When `miti99` is unavailable (like GitHub :v), I often use `tiennm99`, which incorporates parts of my last name, first name, middle name, and birth year.
+[^username]: When `miti99` is unavailable (like GitHub :v), I often use `tiennm99`, which incorporates parts of my family name, middle name, given name, and birth year.
 
-    Another common username is `tienthieusac` (_Tiên Thiếu Sắc_[^tienthieusac]), which means _Tiên_ is _Tiến_ without the accent.
+    Another common username is `tienthieusac` (_Tiên Thiếu Sắc_), which means _Tiên_ is _Tiến_ without the accent[^tienthieusac].
 
     If none of these are available, I may use other minor usernames, although I do not keep track of all of them.
 
