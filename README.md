@@ -16,9 +16,9 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 <div align="center">
 
-[📝 Blog](https://tiennm99.github.io/)
-[📄 PDF CV](https://tiennm99.github.io/cv/miti99.pdf)
-[🌐 Web CV](https://tiennm99.github.io/webcv)
+[![Blog](https://img.shields.io/badge/Blog-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white)](https://tiennm99.github.io/)
+[![PDF CV](https://img.shields.io/badge/📄_PDF_CV-red?style=for-the-badge&logo=adobe%20acrobat%20reader&logoColor=white)](https://tiennm99.github.io/cv/miti99.pdf)
+[![Web CV](https://img.shields.io/badge/Web_CV-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tiennm99.github.io/webcv)
 
 </div>
 
@@ -26,9 +26,9 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 <div align="center">
 
-[📧 Outlook](mailto:tiennm99@outlook.com)
-[👥 Facebook](https://www.facebook.com/tiennm99)
-[💼 LinkedIn](https://www.linkedin.com/in/miti99/)
+[![Outlook](https://img.shields.io/badge/📧_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tiennm99@outlook.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tiennm99)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miti99/)
 
 </div>
 
