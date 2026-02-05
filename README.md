@@ -18,7 +18,7 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 [![Blog](https://img.shields.io/badge/Blog-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white)](https://tiennm99.github.io/)
 [![PDF CV](https://img.shields.io/badge/PDF_CV-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://tiennm99.github.io/cv/miti99.pdf)
-[![Web CV](https://img.shields.io/badge/Web_CV-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)](https://tiennm99.github.io/webcv)
+[![Web CV](https://img.shields.io/badge/Web_CV-100000?style=for-the-badge&logo=github&logoColor=white)](https://tiennm99.github.io/webcv)
 
 </div>
 
