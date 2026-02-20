@@ -16,9 +16,9 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white)](https://tiennm99.github.io/)
-[![PDF CV](https://img.shields.io/badge/PDF_CV-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://tiennm99.github.io/cv/miti99.pdf)
-[![Web CV](https://img.shields.io/badge/Web_CV-100000?style=for-the-badge&logo=github&logoColor=white)](https://tiennm99.github.io/webcv)
+[![Blog](https://img.shields.io/badge/Blog-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://tiennm99.github.io/)
+[![PDF CV](https://img.shields.io/badge/PDF_CV-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://tiennm99.github.io/cv/miti99.pdf)
+[![Web CV](https://img.shields.io/badge/Web_CV-181717?style=for-the-badge&logo=github&logoColor=white)](https://tiennm99.github.io/cv)
 
 </div>
 
@@ -26,10 +26,10 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 <div align="center">
 
-[![Outlook](https://img.shields.io/badge/📧_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tiennm99@outlook.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tiennm99)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miti99/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tiennm5)
+[![Outlook](https://img.shields.io/badge/Outlook-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiennm99@outlook.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tiennm99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://www.linkedin.com/in/miti99/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tiennm5)
 
 </div>
 
