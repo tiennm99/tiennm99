@@ -19,6 +19,7 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 [![Blog](https://custom-icon-badges.demolab.com/badge/Blog-f48120?style=for-the-badge&logoSource=feathe&logo=home&logoColor=white)](https://tiennm99.github.io/)
 [![Pdf CV](https://custom-icon-badges.demolab.com/badge/Pdf_CV-f40f02?style=for-the-badge&logoSource=feather&logo=file-text&logoColor=white)](https://tiennm99.github.io/cv/miti99.pdf)
 [![Web CV](https://custom-icon-badges.demolab.com/badge/Web_CV-211f1f?style=for-the-badge&logoSource=feather&logo=github&logoColor=white)](https://tiennm99.github.io/cv)
+[^badge]
 
 </div>
 
@@ -30,12 +31,6 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 [![Facebook](https://custom-icon-badges.demolab.com/badge/Facebook-1778f2?style=for-the-badge&logoSource=feather&logo=facebook&logoColor=white)](https://www.facebook.com/tiennm99)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-006192?style=for-the-badge&logoSource=feather&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miti99/)
 [![Telegram](https://custom-icon-badges.demolab.com/badge/Telegram-0088cc?style=for-the-badge&logoSource=feather&logo=telegram&logoColor=white)](https://t.me/tiennm5)
-
-</div>
-
-<div align="right">
-
-[^badge]
 
 </div>
 
