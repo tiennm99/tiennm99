@@ -33,6 +33,8 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 </div>
 
+[^badge]
+
 <div align="center">
 
 ![tiennm99](profile-summary-card-output/dracula/0-profile-details.svg)
