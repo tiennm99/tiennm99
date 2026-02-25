@@ -16,9 +16,9 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://tiennm99.github.io/)
-[![PDF CV](https://img.shields.io/badge/PDF_CV-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://tiennm99.github.io/cv/miti99.pdf)
-[![Web CV](https://img.shields.io/badge/Web_CV-181717?style=for-the-badge&logo=github&logoColor=white)](https://tiennm99.github.io/cv)
+[![Blog](https://custom-icon-badges.demolab.com/badge/Blog-F38020?style=for-the-badge&logoSource=feathe&logo=home&logoColor=white)](https://tiennm99.github.io/)
+[![Pdf CV](https://custom-icon-badges.demolab.com/badge/Pdf_CV-4285F4?style=for-the-badge&logoSource=feather&logo=file-text&logoColor=white)](https://tiennm99.github.io/cv/miti99.pdf)
+[![Web CV](https://custom-icon-badges.demolab.com/badge/Web_CV-181717?style=for-the-badge&logoSource=feather&logo=github&logoColor=white)](https://tiennm99.github.io/cv)
 
 </div>
 
@@ -26,10 +26,10 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 <div align="center">
 
-[![Outlook](https://img.shields.io/badge/Outlook-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiennm99@outlook.com)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tiennm99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://www.linkedin.com/in/miti99/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tiennm5)
+[![Outlook](https://custom-icon-badges.demolab.com/badge/Outlook-blue?style=for-the-badge&logoSource=feather&logo=mail&logoColor=white)](mailto:tiennm99@outlook.com)
+[![Facebook](https://custom-icon-badges.demolab.com/badge/Facebook-0866FF?style=for-the-badge&logoSource=feather&logo=facebook&logoColor=white)](https://www.facebook.com/tiennm99)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-003A9B?style=for-the-badge&logoSource=feather&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miti99/)
+[![Telegram](https://custom-icon-badges.demolab.com/badge/Telegram-26A5E4?style=for-the-badge&logoSource=feather&logo=telegram&logoColor=white)](https://t.me/tiennm5)
 
 </div>
 
