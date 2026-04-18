@@ -87,9 +87,10 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 32
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_recent_load: 100
-          plugin_languages_recent_days: 14
+          # recently-used hits upstream crash: TypeError destructuring null
+          # committer in source/plugins/languages/analyzer/recent.mjs:70.
+          # Keeping most-used only until metrics fixes it upstream.
+          plugin_languages_sections: most-used
 
           # 📅 Isometric commit calendar (3D visual)
           plugin_isocalendar: yes
