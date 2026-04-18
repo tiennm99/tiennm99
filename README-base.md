@@ -34,6 +34,8 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 </div>
 
+<!-- STATS -->
+
 [^username]: When `miti99` is unavailable (like GitHub :v), I often use `tiennm99`, which incorporates parts of my family name, middle name, given name, and birth year.
 
     Another common username is `tienthieusac` (_Tiên Thiếu Sắc_), which means _Tiên_ is _Tiến_ without the accent[^tienthieusac].
