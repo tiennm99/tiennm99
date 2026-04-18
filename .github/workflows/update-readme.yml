@@ -102,9 +102,10 @@ jobs:
           # 🎟️ Follow-up on issues / PRs (integrated into Community stats)
           plugin_followup: yes
 
-          # 👨‍💻 Lines of code changed (integrated into Repositories section)
+          # 👨‍💻 Lines of code changed (integrated into Repositories section).
+          # Default history_limit (-1 = all) — limiting this also starves
+          # the languages indepth analyzer.
           plugin_lines: yes
-          plugin_lines_history_limit: 1
 
           # ✨ Stargazers chart
           plugin_stargazers: yes
