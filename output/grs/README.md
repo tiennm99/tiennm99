@@ -38,17 +38,14 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 <div align="center">
 
-![tiennm99](./output/psc/dracula/0-profile-details.svg)
-![Top Languages by Repo](./output/psc/dracula/1-repos-per-language.svg)
-![Top Languages by Commit](./output/psc/dracula/2-most-commit-language.svg)
-![Stats](./output/psc/dracula/3-stats.svg)
-![Commits](./output/psc/dracula/4-productive-time.svg)
+![GitHub Stats](./stats.svg)
+![Top Languages](./top-langs.svg)
 
 </div>
 
 <div align="right">
 
-_Using [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
+_Using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 </div>
 

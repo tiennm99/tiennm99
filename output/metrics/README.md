@@ -38,7 +38,7 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 <div align="center">
 
-![Metrics](./output/metrics/metrics.svg)
+![Metrics](./metrics.svg)
 
 </div>
 
