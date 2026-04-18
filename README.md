@@ -38,8 +38,8 @@ My favorite username - `miti99`, is a creative fusion of my Vietnamese name "Ngu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiennm99&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiennm99&layout=compact&langs_count=10&theme=dracula)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
