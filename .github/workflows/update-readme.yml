@@ -4,12 +4,20 @@ on:
   schedule:
     - cron: "0 17 * * *" # 00:00 UTC+7 daily
   workflow_dispatch:
+    inputs:
+      tool:
+        description: Tool to feature in README.md
+        type: choice
+        default: psc
+        options: [grs, psc, metrics]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      README_TOOL: ${{ inputs.tool || 'psc' }}
 
     steps:
       - uses: actions/checkout@v6
@@ -47,12 +55,15 @@ jobs:
           mkdir -p output
           mv profile-summary-card-output output/psc
 
-      - name: Commit grs + psc
+      - name: Assemble README.md from base + active tool
+        run: cat README-base.md "README-${README_TOOL}.md" > README.md
+
+      - name: Commit grs + psc + README
         if: ${{ !env.ACT }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/grs output/psc
+          git add output/grs output/psc README.md
           git diff --cached --quiet || git commit -m "Update grs + psc cards"
           git push
 
