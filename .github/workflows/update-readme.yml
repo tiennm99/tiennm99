@@ -47,7 +47,6 @@ jobs:
           mkdir -p output
           mv profile-summary-card-output output/psc
 
-      # Commit grs + psc before metrics (which auto-commits separately)
       - name: Commit grs + psc
         if: ${{ !env.ACT }}
         run: |
@@ -57,9 +56,7 @@ jobs:
           git diff --cached --quiet || git commit -m "Update grs + psc cards"
           git push
 
-      # metrics → output/metrics/metrics.svg (auto-commits internally)
-      # Enables all official GitHub-data plugins (no external service plugins
-      # like wakatime/leetcode/anilist/steam; no community plugins).
+      # metrics — all official GitHub-data plugins (no external-service/community)
       - name: metrics
         if: ${{ !env.ACT }}
         uses: lowlighter/metrics@latest
@@ -70,28 +67,36 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
           base: header, activity, community, repositories, metadata
 
-          # 🈷️ Languages — indepth clones repos for byte-accurate stats
+          # Include private repos (token has `repo` scope)
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
+          repositories: 400
+
+          # 🈷️ Languages — indepth = clones + analyzes for byte-accurate stats
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, bytes-size
-          plugin_languages_limit: 10
+          plugin_languages_limit: 12
           plugin_languages_sections: most-used
-          plugin_languages_ignored: >-
-            html, css, tex, makefile, dockerfile, batchfile, shell, cmake,
-            procfile, scss, less, roff
 
           # 📅 Isometric commit calendar (3D visual)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # 💡 Coding habits — productive time/day heatmap, replaces psc productive-time
+          # 📆 Flat commit calendar (all years)
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
+          # 🌇 GitHub Skyline (3D contribution graph, previous year)
+          plugin_skyline: yes
+          plugin_skyline_year: 2025
+
+          # 💡 Coding habits — productive time, charts, facts
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
           plugin_habits_charts: yes
           plugin_habits_facts: yes
 
-          # 🏆 Achievements badges
+          # 🏆 Achievements (detailed badges)
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -111,12 +116,23 @@ jobs:
           plugin_topics_mode: mastered
           plugin_topics_limit: 15
 
-          # 📜 Repository licenses
+          # 💫 Star lists
+          plugin_starlists: yes
+          plugin_starlists_limit: 4
+
+          # 🌟 Recently starred repos
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # 📜 Licenses ratio
           plugin_licenses: yes
           plugin_licenses_ratio: yes
 
           # 🎩 Notable contributions
           plugin_notable: yes
+
+          # 🏅 Repo contributors
+          plugin_contributors: yes
 
           # 🧑‍🤝‍🧑 People (followers / following)
           plugin_people: yes
@@ -132,15 +148,18 @@ jobs:
           plugin_discussions: yes
           plugin_discussions_categories: yes
 
+          # 🧮 Repository traffic
+          plugin_traffic: yes
+
           # 🎫 Gists
           plugin_gists: yes
 
-          # 🗂️ GitHub projects
-          plugin_projects: yes
-
-          # 📓 Featured repositories (pinned-style showcase)
+          # 📓 Featured repositories (pinned showcase)
           plugin_repositories: yes
 
-          # 🌟 Recently starred repos
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          # ♐ Random code snippet
+          plugin_code: yes
+          plugin_code_lines: 12
+
+          # 🙋 Introduction (bio)
+          plugin_introduction: yes
