@@ -136,15 +136,16 @@ jobs:
         if: ${{ !env.ACT }}
         run: |
           git pull --rebase
+          mkdir -p output
           for tool in grs psc metrics; do
             sed "/<!-- STATS -->/r base/${tool}.md" base/common.md \
-              | sed "/<!-- STATS -->/d" > "README-${tool}.md"
+              | sed "/<!-- STATS -->/d" > "output/README-${tool}.md"
           done
-          cp "README-${README_TOOL}.md" README.md
+          cp "output/README-${README_TOOL}.md" README.md
 
       - name: Commit READMEs
         if: ${{ !env.ACT }}
         run: |
-          git add README.md README-grs.md README-psc.md README-metrics.md
+          git add README.md output/README-grs.md output/README-psc.md output/README-metrics.md
           git diff --cached --quiet || git commit -m "Update READMEs"
           git push
