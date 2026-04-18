@@ -163,6 +163,15 @@ jobs:
           # 🙋 Introduction (bio)
           plugin_introduction: yes
 
+          # 💝 GitHub Sponsorships (who you sponsor)
+          plugin_sponsorships: yes
+
+          # 💕 GitHub Sponsors (your sponsor tier)
+          plugin_sponsors: yes
+
+          # 🏅 Support activity
+          plugin_support: yes
+
       # Assemble README-<tool>.md for each tool, then README.md = copy of chosen
       - name: Assemble READMEs
         if: ${{ !env.ACT }}
