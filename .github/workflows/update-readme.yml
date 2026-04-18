@@ -81,11 +81,15 @@ jobs:
           repositories: 400
 
           # 🈷️ Languages — indepth = clones + analyzes for byte-accurate stats
+          #   most-used: full-time analysis across all repos
+          #   recently-used: recent events analysis (last 14 days)
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, bytes-size
-          plugin_languages_limit: 12
-          plugin_languages_sections: most-used
+          plugin_languages_limit: 32
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_recent_load: 100
+          plugin_languages_recent_days: 14
 
           # 📅 Isometric commit calendar (3D visual)
           plugin_isocalendar: yes
@@ -94,20 +98,6 @@ jobs:
           # 📆 Flat commit calendar (all years)
           plugin_calendar: yes
           plugin_calendar_limit: 0
-
-          # 🌇 GitHub Skyline (3D contribution graph, previous year)
-          plugin_skyline: yes
-          plugin_skyline_year: 2025
-
-          # 💡 Coding habits — productive time, charts, facts
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
-
-          # 🏆 Achievements (detailed badges)
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
 
           # 🎟️ Follow-up on issues / PRs
           plugin_followup: yes
