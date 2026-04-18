@@ -137,7 +137,7 @@ jobs:
         run: |
           git pull --rebase
           for tool in grs psc metrics; do
-            sed "/<!-- STATS -->/r stats-${tool}.md" README-base.md \
+            sed "/<!-- STATS -->/r base/${tool}.md" base/common.md \
               | sed "/<!-- STATS -->/d" > "README-${tool}.md"
           done
           cp "README-${README_TOOL}.md" README.md
