@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: tiennm99/ghstats@v1.1.0
+      - uses: tiennm99/ghstats-cards@v1.2.0
         with:
           user: ${{ github.repository_owner }}
           # secrets.GHSTATS_TOKEN is a classic PAT with read:user + repo for
