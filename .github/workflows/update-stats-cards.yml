@@ -16,10 +16,11 @@ jobs:
       - uses: tiennm99/ghstats@v1.0.0
         with:
           user: ${{ github.repository_owner }}
-          # secrets.TOKEN is a classic PAT with read:user + repo for private
-          # stats. Falls back to the auto-issued github.token, which can read
-          # public user data and push card commits but can't see private repos.
-          token: ${{ secrets.TOKEN || github.token }}
+          # secrets.GHSTATS_TOKEN is a classic PAT with read:user + repo for
+          # private stats. Falls back to the auto-issued github.token, which
+          # can read public user data and push card commits but can't see
+          # private repos.
+          token: ${{ secrets.GHSTATS_TOKEN || github.token }}
           themes: dracula
           tz: Asia/Saigon
           include_forks: "true"
