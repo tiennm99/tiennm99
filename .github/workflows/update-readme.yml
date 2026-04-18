@@ -88,11 +88,13 @@ jobs:
           plugin_introduction: yes
 
           # 🈷️ Languages — indepth = clones + analyzes for byte-accurate stats.
+          # limit max is 8 (upstream cap); over-limit langs go into "Other".
           # recently-used section disabled (upstream null-committer crash).
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, bytes-size
-          plugin_languages_limit: 32
+          plugin_languages_limit: 8
+          plugin_languages_other: yes
           plugin_languages_sections: most-used
 
           # 📅 Isometric commit calendar (impressive 3D visual)
