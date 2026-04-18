@@ -38,19 +38,15 @@ My favorite username — `miti99` — is a creative fusion of my Vietnamese name
 
 <div align="center">
 
-![Profile details](./output/dracula/profile-details.svg)
+![Profile](./output/dracula/profile-details.svg) ![Stats](./output/dracula/stats.svg)
 
 ![Repos per language](./output/dracula/repos-per-language.svg)
-![Most commit language](./output/dracula/most-commit-language.svg)
-![Most commit language — all time](./output/dracula/most-commit-language-all-time.svg)
 
-![Stats](./output/dracula/stats.svg)
+![Most commit language — last year](./output/dracula/most-commit-language.svg) ![Most commit language — all time](./output/dracula/most-commit-language-all-time.svg)
 
-![Productive time](./output/dracula/productive-time.svg)
-![Productive time — all time](./output/dracula/productive-time-all-time.svg)
+![Productive time — last year](./output/dracula/productive-time.svg) ![Productive time — all time](./output/dracula/productive-time-all-time.svg)
 
-![Contributions](./output/dracula/contributions.svg)
-![Contributions — all time](./output/dracula/contributions-all-time.svg)
+![Contributions — last year](./output/dracula/contributions.svg) ![Contributions — all time](./output/dracula/contributions-all-time.svg)
 
 </div>
 
