@@ -136,16 +136,22 @@ jobs:
         if: ${{ !env.ACT }}
         run: |
           git pull --rebase
-          mkdir -p output
           for tool in grs psc metrics; do
+            mkdir -p "output/${tool}"
+            # Per-tool README lives at output/<tool>/README.md, so rewrite
+            # ./output/<tool>/ image paths to be relative to that folder.
             sed "/<!-- STATS -->/r base/${tool}.md" base/common.md \
-              | sed "/<!-- STATS -->/d" > "output/README-${tool}.md"
+              | sed "/<!-- STATS -->/d" \
+              | sed "s|./output/${tool}/|./|g" \
+              > "output/${tool}/README.md"
           done
-          cp "output/README-${README_TOOL}.md" README.md
+          # Main README.md at repo root, paths stay ./output/<tool>/...
+          sed "/<!-- STATS -->/r base/${README_TOOL}.md" base/common.md \
+            | sed "/<!-- STATS -->/d" > README.md
 
       - name: Commit READMEs
         if: ${{ !env.ACT }}
         run: |
-          git add README.md output/README-grs.md output/README-psc.md output/README-metrics.md
+          git add README.md output/grs/README.md output/psc/README.md output/metrics/README.md
           git diff --cached --quiet || git commit -m "Update READMEs"
           git push
