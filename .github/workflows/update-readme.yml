@@ -55,15 +55,12 @@ jobs:
           mkdir -p output
           mv profile-summary-card-output output/psc
 
-      - name: Assemble README.md from base + active tool
-        run: cat README-base.md "README-${README_TOOL}.md" > README.md
-
-      - name: Commit grs + psc + README
+      - name: Commit grs + psc
         if: ${{ !env.ACT }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/grs output/psc README.md
+          git add output/grs output/psc
           git diff --cached --quiet || git commit -m "Update grs + psc cards"
           git push
 
@@ -174,3 +171,21 @@ jobs:
 
           # 🙋 Introduction (bio)
           plugin_introduction: yes
+
+      # Assemble README-<tool>.md for each tool, then README.md = copy of chosen
+      - name: Assemble READMEs
+        if: ${{ !env.ACT }}
+        run: |
+          git pull --rebase
+          for tool in grs psc metrics; do
+            sed "/<!-- STATS -->/r stats-${tool}.md" README-base.md \
+              | sed "/<!-- STATS -->/d" > "README-${tool}.md"
+          done
+          cp "README-${README_TOOL}.md" README.md
+
+      - name: Commit READMEs
+        if: ${{ !env.ACT }}
+        run: |
+          git add README.md README-grs.md README-psc.md README-metrics.md
+          git diff --cached --quiet || git commit -m "Update READMEs"
+          git push
