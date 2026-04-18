@@ -1,0 +1,77 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 17 * * *" # 00:00 UTC+7 daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      # github-readme-stats → output/grs/
+      - name: grs — stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged&theme=dracula
+          path: output/grs/stats.svg
+          token: ${{ secrets.SUMMARY_CARD_TOKEN }}
+
+      - name: grs — top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=dracula
+          path: output/grs/top-langs.svg
+          token: ${{ secrets.SUMMARY_CARD_TOKEN }}
+
+      # github-profile-summary-cards → output/psc/
+      - name: psc — profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 7
+          AUTO_PUSH: false
+
+      - name: psc — relocate to output/psc
+        run: |
+          rm -rf output/psc
+          mkdir -p output
+          mv profile-summary-card-output output/psc
+
+      # Commit grs + psc before metrics (which auto-commits separately)
+      - name: Commit grs + psc
+        if: ${{ !env.ACT }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/grs output/psc
+          git diff --cached --quiet || git commit -m "Update grs + psc cards"
+          git push
+
+      # metrics → output/metrics/metrics.svg (auto-commits internally)
+      - name: metrics
+        if: ${{ !env.ACT }}
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: output/metrics/metrics.svg
+          config_timezone: Asia/Ho_Chi_Minh
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 10
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_ignored: >-
+            html, css, tex, makefile, dockerfile, batchfile, shell, cmake,
+            procfile, scss, less, roff
