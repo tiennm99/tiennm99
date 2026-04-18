@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged&theme=dracula
           path: output/grs/stats.svg
-          token: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          token: ${{ secrets.TOKEN }}
 
       - name: grs — top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -29,13 +29,13 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=dracula
           path: output/grs/top-langs.svg
-          token: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          token: ${{ secrets.TOKEN }}
 
       # github-profile-summary-cards → output/psc/
       - name: psc — profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 7
@@ -61,7 +61,7 @@ jobs:
         if: ${{ !env.ACT }}
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          token: ${{ secrets.TOKEN }}
           user: ${{ github.repository_owner }}
           filename: output/metrics/metrics.svg
           config_timezone: Asia/Ho_Chi_Minh
