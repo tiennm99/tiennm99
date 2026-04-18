@@ -58,6 +58,8 @@ jobs:
           git push
 
       # metrics → output/metrics/metrics.svg (auto-commits internally)
+      # Enables all official GitHub-data plugins (no external service plugins
+      # like wakatime/leetcode/anilist/steam; no community plugins).
       - name: metrics
         if: ${{ !env.ACT }}
         uses: lowlighter/metrics@latest
@@ -67,6 +69,8 @@ jobs:
           filename: output/metrics/metrics.svg
           config_timezone: Asia/Ho_Chi_Minh
           base: header, activity, community, repositories, metadata
+
+          # 🈷️ Languages — indepth clones repos for byte-accurate stats
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, bytes-size
@@ -75,3 +79,68 @@ jobs:
           plugin_languages_ignored: >-
             html, css, tex, makefile, dockerfile, batchfile, shell, cmake,
             procfile, scss, less, roff
+
+          # 📅 Isometric commit calendar (3D visual)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 💡 Coding habits — productive time/day heatmap, replaces psc productive-time
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+
+          # 🏆 Achievements badges
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+
+          # 🎟️ Follow-up on issues / PRs
+          plugin_followup: yes
+
+          # 👨‍💻 Lines of code changed
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+
+          # ✨ Stargazers chart
+          plugin_stargazers: yes
+
+          # 📌 Starred topics
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 15
+
+          # 📜 Repository licenses
+          plugin_licenses: yes
+          plugin_licenses_ratio: yes
+
+          # 🎩 Notable contributions
+          plugin_notable: yes
+
+          # 🧑‍🤝‍🧑 People (followers / following)
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 24
+
+          # 🎭 Reactions on comments
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_days: 30
+
+          # 💬 Discussions
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
+
+          # 🎫 Gists
+          plugin_gists: yes
+
+          # 🗂️ GitHub projects
+          plugin_projects: yes
+
+          # 📓 Featured repositories (pinned-style showcase)
+          plugin_repositories: yes
+
+          # 🌟 Recently starred repos
+          plugin_stars: yes
+          plugin_stars_limit: 4
