@@ -64,7 +64,11 @@ jobs:
           git diff --cached --quiet || git commit -m "Update grs + psc cards"
           git push
 
-      # metrics — all official GitHub-data plugins (no external-service/community)
+      # metrics — curated impressive-only plugin set (after review).
+      # Dropped: calendar (dup of isocalendar), stars/starlists/gists (empty
+      # or personal), traffic/support/sponsors (upstream/scope errors),
+      # sponsorships/code/contributors/licenses/discussions (empty/noisy).
+      # Disabled permanently: achievements, habits, skyline (upstream bugs).
       - name: metrics
         if: ${{ !env.ACT }}
         uses: lowlighter/metrics@latest
@@ -80,58 +84,41 @@ jobs:
           repositories_forks: yes
           repositories: 400
 
-          # 🈷️ Languages — indepth = clones + analyzes for byte-accurate stats
-          #   most-used: full-time analysis across all repos
-          #   recently-used: recent events analysis (last 14 days)
+          # 🙋 Introduction (bio)
+          plugin_introduction: yes
+
+          # 🈷️ Languages — indepth = clones + analyzes for byte-accurate stats.
+          # recently-used section disabled (upstream null-committer crash).
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 32
-          # recently-used hits upstream crash: TypeError destructuring null
-          # committer in source/plugins/languages/analyzer/recent.mjs:70.
-          # Keeping most-used only until metrics fixes it upstream.
           plugin_languages_sections: most-used
 
-          # 📅 Isometric commit calendar (3D visual)
+          # 📅 Isometric commit calendar (impressive 3D visual)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # 📆 Flat commit calendar (all years)
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-
-          # 🎟️ Follow-up on issues / PRs
+          # 🎟️ Follow-up on issues / PRs (integrated into Community stats)
           plugin_followup: yes
 
-          # 👨‍💻 Lines of code changed
+          # 👨‍💻 Lines of code changed (integrated into Repositories section)
           plugin_lines: yes
           plugin_lines_history_limit: 1
 
           # ✨ Stargazers chart
           plugin_stargazers: yes
 
-          # 📌 Starred topics
+          # 📌 Starred topics — mastered technologies
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 15
 
-          # 💫 Star lists
-          plugin_starlists: yes
-          plugin_starlists_limit: 4
-
-          # 🌟 Recently starred repos
-          plugin_stars: yes
-          plugin_stars_limit: 4
-
-          # 📜 Licenses ratio
-          plugin_licenses: yes
-          plugin_licenses_ratio: yes
-
           # 🎩 Notable contributions
           plugin_notable: yes
 
-          # 🏅 Repo contributors
-          plugin_contributors: yes
+          # 📓 Featured repositories (pinned showcase)
+          plugin_repositories: yes
 
           # 🧑‍🤝‍🧑 People (followers / following)
           plugin_people: yes
@@ -142,35 +129,6 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 200
           plugin_reactions_days: 30
-
-          # 💬 Discussions
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
-
-          # 🧮 Repository traffic
-          plugin_traffic: yes
-
-          # 🎫 Gists
-          plugin_gists: yes
-
-          # 📓 Featured repositories (pinned showcase)
-          plugin_repositories: yes
-
-          # ♐ Random code snippet
-          plugin_code: yes
-          plugin_code_lines: 12
-
-          # 🙋 Introduction (bio)
-          plugin_introduction: yes
-
-          # 💝 GitHub Sponsorships (who you sponsor)
-          plugin_sponsorships: yes
-
-          # 💕 GitHub Sponsors (your sponsor tier)
-          plugin_sponsors: yes
-
-          # 🏅 Support activity
-          plugin_support: yes
 
       # Assemble README-<tool>.md for each tool, then README.md = copy of chosen
       - name: Assemble READMEs
