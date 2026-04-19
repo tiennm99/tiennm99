@@ -22,6 +22,7 @@ jobs:
           # private repos.
           token: ${{ secrets.GHSTATS_TOKEN || github.token }}
           themes: dracula
+          out: ghstats
           tz: Asia/Saigon
           include_forks: "true"
           include_private: "true"
