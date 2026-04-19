@@ -1,4 +1,4 @@
-name: Update stats cards
+name: ghstats
 
 on:
   schedule:
@@ -26,4 +26,4 @@ jobs:
           include_forks: "true"
           include_private: "true"
           commit_changes: "true"
-          commit_message: "chore: refresh stats cards"
+          commit_message: "chore: refresh ghstats cards"
