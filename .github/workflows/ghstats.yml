@@ -24,6 +24,7 @@ jobs:
           themes: dracula
           out: ghstats
           tz: Asia/Saigon
+          start_of_week: monday
           include_forks: "true"
           include_private: "true"
           commit_changes: "true"
