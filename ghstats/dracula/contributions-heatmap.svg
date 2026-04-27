@@ -71,9 +71,9 @@
   <rect x="111" y="45" width="8" height="8" rx="1.5" fill="#282a36"><title>2025-06-23 — 0</title></rect>
   <rect x="111" y="54" width="8" height="8" rx="1.5" fill="#282a36"><title>2025-06-24 — 0</title></rect>
   <rect x="111" y="63" width="8" height="8" rx="1.5" fill="#282a36"><title>2025-06-25 — 0</title></rect>
-  <rect x="111" y="72" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-06-26 — 14</title></rect>
+  <rect x="111" y="72" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-06-26 — 13</title></rect>
   <rect x="111" y="81" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-06-27 — 12</title></rect>
-  <rect x="111" y="90" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-06-28 — 5</title></rect>
+  <rect x="111" y="90" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-06-28 — 4</title></rect>
   <rect x="111" y="99" width="8" height="8" rx="1.5" fill="#282a36"><title>2025-06-29 — 0</title></rect>
   <rect x="120" y="45" width="8" height="8" rx="1.5" fill="#282a36"><title>2025-06-30 — 0</title></rect>
   <rect x="120" y="54" width="8" height="8" rx="1.5" fill="#282a36"><title>2025-07-01 — 0</title></rect>
@@ -82,7 +82,7 @@
   <rect x="120" y="81" width="8" height="8" rx="1.5" fill="#282a36"><title>2025-07-04 — 0</title></rect>
   <rect x="120" y="90" width="8" height="8" rx="1.5" fill="#282a36"><title>2025-07-05 — 0</title></rect>
   <rect x="120" y="99" width="8" height="8" rx="1.5" fill="#282a36"><title>2025-07-06 — 0</title></rect>
-  <rect x="129" y="45" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-07-07 — 3</title></rect>
+  <rect x="129" y="45" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-07-07 — 2</title></rect>
   <rect x="129" y="54" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-07-08 — 9</title></rect>
   <rect x="129" y="63" width="8" height="8" rx="1.5" fill="#282a36"><title>2025-07-09 — 0</title></rect>
   <rect x="129" y="72" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-07-10 — 1</title></rect>
@@ -385,5 +385,6 @@
   <rect x="255" y="156" width="8" height="8" rx="1.5" fill="#725e97"><title>2026-04-24 — 41</title></rect>
   <rect x="255" y="165" width="8" height="8" rx="1.5" fill="#725e97"><title>2026-04-25 — 38</title></rect>
   <rect x="255" y="174" width="8" height="8" rx="1.5" fill="#725e97"><title>2026-04-26 — 41</title></rect>
-  <rect x="264" y="120" width="8" height="8" rx="1.5" fill="#4d4466"><title>2026-04-27 — 7</title></rect>
+  <rect x="264" y="120" width="8" height="8" rx="1.5" fill="#bd93f9"><title>2026-04-27 — 72</title></rect>
+  <rect x="264" y="129" width="8" height="8" rx="1.5" fill="#282a36"><title>2026-04-28 — 0</title></rect>
 </svg>
