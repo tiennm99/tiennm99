@@ -120,7 +120,7 @@
   <rect x="174" y="45" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-08-18 — 5</title></rect>
   <rect x="174" y="54" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-08-19 — 2</title></rect>
   <rect x="174" y="63" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-08-20 — 1</title></rect>
-  <rect x="174" y="72" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-08-21 — 3</title></rect>
+  <rect x="174" y="72" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-08-21 — 2</title></rect>
   <rect x="174" y="81" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-08-22 — 1</title></rect>
   <rect x="174" y="90" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-08-23 — 6</title></rect>
   <rect x="174" y="99" width="8" height="8" rx="1.5" fill="#4d4466"><title>2025-08-24 — 1</title></rect>
@@ -387,5 +387,6 @@
   <rect x="255" y="165" width="8" height="8" rx="1.5" fill="#4d4466"><title>2026-05-02 — 1</title></rect>
   <rect x="255" y="174" width="8" height="8" rx="1.5" fill="#725e97"><title>2026-05-03 — 32</title></rect>
   <rect x="264" y="120" width="8" height="8" rx="1.5" fill="#4d4466"><title>2026-05-04 — 2</title></rect>
-  <rect x="264" y="129" width="8" height="8" rx="1.5" fill="#282a36"><title>2026-05-05 — 0</title></rect>
+  <rect x="264" y="129" width="8" height="8" rx="1.5" fill="#4d4466"><title>2026-05-05 — 21</title></rect>
+  <rect x="264" y="138" width="8" height="8" rx="1.5" fill="#282a36"><title>2026-05-06 — 0</title></rect>
 </svg>
