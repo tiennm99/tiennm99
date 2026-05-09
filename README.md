@@ -52,7 +52,8 @@ My favorite username — `miti99` — is a creative fusion of my Vietnamese name
 <td><img src="./ghstats/dracula/contributions-heatmap.svg" alt="contributions heatmap" /></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="./ghstats/dracula/streak.svg" alt="streak" /></td>
+<td><img src="./ghstats/dracula/records.svg" alt="records" /></td>
+<td><img src="./ghstats/dracula/streak.svg" alt="streak" /></td>
 </tr>
 <tr><th>Last year</th><th>All time</th></tr>
 <tr>
