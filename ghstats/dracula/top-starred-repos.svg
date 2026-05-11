@@ -17,8 +17,13 @@
   <rect x="150" y="96" width="120.00" height="10" rx="3" fill="#bd93f9"/>
   <text x="334" y="104" font-size="12" font-weight="600" fill="#bd93f9" text-anchor="end">1 ★</text>
   <circle cx="24" cy="122" r="4" fill="#b07219"/>
-  <text x="34" y="126" font-size="12" fill="#ffb86c">lottery-generator</text>
+  <text x="34" y="126" font-size="12" fill="#ffb86c">lottery-generato…</text>
   <rect x="150" y="118" width="120" height="10" rx="3" fill="#bd93f9" fill-opacity="0.15"/>
   <rect x="150" y="118" width="120.00" height="10" rx="3" fill="#bd93f9"/>
   <text x="334" y="126" font-size="12" font-weight="600" fill="#bd93f9" text-anchor="end">1 ★</text>
+  <circle cx="24" cy="144" r="4" fill="#f34b7d"/>
+  <text x="34" y="148" font-size="12" fill="#ffb86c">arduino</text>
+  <rect x="150" y="140" width="120" height="10" rx="3" fill="#bd93f9" fill-opacity="0.15"/>
+  <rect x="150" y="140" width="120.00" height="10" rx="3" fill="#bd93f9"/>
+  <text x="334" y="148" font-size="12" font-weight="600" fill="#bd93f9" text-anchor="end">1 ★</text>
 </svg>
