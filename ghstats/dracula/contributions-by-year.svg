@@ -18,15 +18,15 @@
   <rect x="35.00" y="152.80" width="30.44" height="2.20" rx="2" fill="#7963a1"><title>2018 — 50 commits</title></rect>
   <text x="50.22" y="169" font-size="10" fill="#6272a4" text-anchor="middle">2018</text>
   <rect x="67.44" y="154.08" width="30.44" height="0.92" rx="2" fill="#7963a1"><title>2019 — 21 commits</title></rect>
-  <rect x="99.89" y="152.23" width="30.44" height="2.77" rx="2" fill="#7963a1"><title>2020 — 63 commits</title></rect>
+  <rect x="99.89" y="152.14" width="30.44" height="2.86" rx="2" fill="#7963a1"><title>2020 — 65 commits</title></rect>
   <text x="115.11" y="169" font-size="10" fill="#6272a4" text-anchor="middle">2020</text>
-  <rect x="132.33" y="152.93" width="30.44" height="2.07" rx="2" fill="#7963a1"><title>2021 — 47 commits</title></rect>
-  <rect x="164.78" y="141.27" width="30.44" height="13.73" rx="2" fill="#7963a1"><title>2022 — 312 commits</title></rect>
+  <rect x="132.33" y="152.62" width="30.44" height="2.38" rx="2" fill="#7963a1"><title>2021 — 54 commits</title></rect>
+  <rect x="164.78" y="141.23" width="30.44" height="13.77" rx="2" fill="#7963a1"><title>2022 — 313 commits</title></rect>
   <text x="180.00" y="169" font-size="10" fill="#6272a4" text-anchor="middle">2022</text>
-  <rect x="197.22" y="133.09" width="30.44" height="21.91" rx="2" fill="#7963a1"><title>2023 — 498 commits</title></rect>
-  <rect x="229.67" y="138.72" width="30.44" height="16.28" rx="2" fill="#7963a1"><title>2024 — 370 commits</title></rect>
+  <rect x="197.22" y="131.02" width="30.44" height="23.98" rx="2" fill="#7963a1"><title>2023 — 545 commits</title></rect>
+  <rect x="229.67" y="137.75" width="30.44" height="17.25" rx="2" fill="#7963a1"><title>2024 — 392 commits</title></rect>
   <text x="244.89" y="169" font-size="10" fill="#6272a4" text-anchor="middle">2024</text>
-  <rect x="262.11" y="106.86" width="30.44" height="48.14" rx="2" fill="#7963a1"><title>2025 — 1094 commits</title></rect>
-  <rect x="294.56" y="64.36" width="30.44" height="90.64" rx="2" fill="#bd93f9"><title>2026 — 2060 commits</title></rect>
+  <rect x="262.11" y="101.36" width="30.44" height="53.64" rx="2" fill="#7963a1"><title>2025 — 1219 commits</title></rect>
+  <rect x="294.56" y="52.00" width="30.44" height="103.00" rx="2" fill="#bd93f9"><title>2026 — 2341 commits</title></rect>
   <text x="309.78" y="169" font-size="10" fill="#6272a4" text-anchor="middle">2026</text>
 </svg>
