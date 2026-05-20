@@ -2,7 +2,7 @@
   <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#282a36" stroke="#282a36" stroke-opacity="1.00"/>
   <text x="20" y="30" font-size="15" font-weight="600" fill="#ff79c6">Top Starred Repos</text>
   <circle cx="24" cy="56" r="4" fill="#178600"/>
-  <text x="34" y="60" font-size="12" fill="#ffb86c">time-mocker</text>
+  <text x="34" y="60" font-size="12" fill="#ffb86c">time-mocker-csha…</text>
   <rect x="150" y="52" width="120" height="10" rx="3" fill="#bd93f9" fill-opacity="0.15"/>
   <rect x="150" y="52" width="120.00" height="10" rx="3" fill="#bd93f9"/>
   <text x="334" y="60" font-size="12" font-weight="600" fill="#bd93f9" text-anchor="end">1 ★</text>
