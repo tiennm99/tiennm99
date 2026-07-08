@@ -21,9 +21,9 @@
   <line x1="35" y1="155" x2="325" y2="155" stroke="#6272a4"/>
   <rect x="35.00" y="75.80" width="36.29" height="79.20" rx="2" fill="#7963a1"><title>Mon — 504 commits</title></rect>
   <text x="53.14" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Mon</text>
-  <rect x="77.29" y="101.10" width="36.29" height="53.90" rx="2" fill="#7963a1"><title>Tue — 343 commits</title></rect>
+  <rect x="77.29" y="102.36" width="36.29" height="52.64" rx="2" fill="#7963a1"><title>Tue — 335 commits</title></rect>
   <text x="95.43" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Tue</text>
-  <rect x="119.57" y="79.89" width="36.29" height="75.11" rx="2" fill="#7963a1"><title>Wed — 478 commits</title></rect>
+  <rect x="119.57" y="79.73" width="36.29" height="75.27" rx="2" fill="#7963a1"><title>Wed — 479 commits</title></rect>
   <text x="137.71" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Wed</text>
   <rect x="161.86" y="98.43" width="36.29" height="56.57" rx="2" fill="#7963a1"><title>Thu — 360 commits</title></rect>
   <text x="180.00" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Thu</text>
