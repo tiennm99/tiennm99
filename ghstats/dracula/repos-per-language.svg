@@ -10,16 +10,16 @@
   <rect x="20" y="107" width="10" height="10" fill="#3572A5" stroke="#282a36" stroke-width="1"/>
   <text x="36" y="115" font-size="11" fill="#ffb86c">Python 9.79%</text>
   <rect x="20" y="127" width="10" height="10" fill="#e34c26" stroke="#282a36" stroke-width="1"/>
-  <text x="36" y="135" font-size="11" fill="#ffb86c">HTML 8.09%</text>
+  <text x="36" y="135" font-size="11" fill="#ffb86c">HTML 7.66%</text>
   <rect x="20" y="147" width="10" height="10" fill="#f34b7d" stroke="#282a36" stroke-width="1"/>
   <text x="36" y="155" font-size="11" fill="#ffb86c">C++ 5.96%</text>
   <rect x="20" y="167" width="10" height="10" fill="#bd93f9" stroke="#282a36" stroke-width="1"/>
-  <text x="36" y="175" font-size="11" fill="#ffb86c">Other 22.98%</text>
+  <text x="36" y="175" font-size="11" fill="#ffb86c">Other 23.40%</text>
   <path d="M250.00,55.00 A55.00,55.00 0 0 1 304.99,108.90 L279.99,109.40 A30.00,30.00 0 0 0 250.00,80.00 Z" fill="#f1e05a" stroke="#282a36" stroke-width="1.5"/>
   <path d="M304.99,108.90 A55.00,55.00 0 0 1 284.66,152.70 L268.91,133.29 A30.00,30.00 0 0 0 279.99,109.40 Z" fill="#00ADD8" stroke="#282a36" stroke-width="1.5"/>
   <path d="M284.66,152.70 A55.00,55.00 0 0 1 239.04,163.90 L244.02,139.40 A30.00,30.00 0 0 0 268.91,133.29 Z" fill="#b07219" stroke="#282a36" stroke-width="1.5"/>
   <path d="M239.04,163.90 A55.00,55.00 0 0 1 209.96,147.70 L228.16,130.57 A30.00,30.00 0 0 0 244.02,139.40 Z" fill="#3572A5" stroke="#282a36" stroke-width="1.5"/>
-  <path d="M209.96,147.70 A55.00,55.00 0 0 1 196.67,123.46 L220.91,117.34 A30.00,30.00 0 0 0 228.16,130.57 Z" fill="#e34c26" stroke="#282a36" stroke-width="1.5"/>
-  <path d="M196.67,123.46 A55.00,55.00 0 0 1 195.44,103.03 L220.24,106.20 A30.00,30.00 0 0 0 220.91,117.34 Z" fill="#f34b7d" stroke="#282a36" stroke-width="1.5"/>
-  <path d="M195.44,103.03 A55.00,55.00 0 0 1 250.00,55.00 L250.00,80.00 A30.00,30.00 0 0 0 220.24,106.20 Z" fill="#bd93f9" stroke="#282a36" stroke-width="1.5"/>
+  <path d="M209.96,147.70 A55.00,55.00 0 0 1 197.05,124.88 L221.12,118.12 A30.00,30.00 0 0 0 228.16,130.57 Z" fill="#e34c26" stroke="#282a36" stroke-width="1.5"/>
+  <path d="M197.05,124.88 A55.00,55.00 0 0 1 195.28,104.49 L220.15,107.00 A30.00,30.00 0 0 0 221.12,118.12 Z" fill="#f34b7d" stroke="#282a36" stroke-width="1.5"/>
+  <path d="M195.28,104.49 A55.00,55.00 0 0 1 250.00,55.00 L250.00,80.00 A30.00,30.00 0 0 0 220.15,107.00 Z" fill="#bd93f9" stroke="#282a36" stroke-width="1.5"/>
 </svg>
