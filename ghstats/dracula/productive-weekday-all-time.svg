@@ -4,29 +4,31 @@
   <line x1="35" y1="45" x2="35" y2="155" stroke="#6272a4"/>
   <line x1="31" y1="155" x2="35" y2="155" stroke="#6272a4"/>
   <text x="29" y="158" font-size="10" fill="#6272a4" text-anchor="end">0</text>
-  <line x1="31" y1="133" x2="35" y2="133" stroke="#6272a4"/>
-  <text x="29" y="136" font-size="10" fill="#6272a4" text-anchor="end">200</text>
-  <line x1="31" y1="111" x2="35" y2="111" stroke="#6272a4"/>
-  <text x="29" y="114" font-size="10" fill="#6272a4" text-anchor="end">400</text>
-  <line x1="31" y1="89" x2="35" y2="89" stroke="#6272a4"/>
-  <text x="29" y="92" font-size="10" fill="#6272a4" text-anchor="end">600</text>
-  <line x1="31" y1="67" x2="35" y2="67" stroke="#6272a4"/>
-  <text x="29" y="70" font-size="10" fill="#6272a4" text-anchor="end">800</text>
+  <line x1="31" y1="137" x2="35" y2="137" stroke="#6272a4"/>
+  <text x="29" y="140" font-size="10" fill="#6272a4" text-anchor="end">200</text>
+  <line x1="31" y1="119" x2="35" y2="119" stroke="#6272a4"/>
+  <text x="29" y="122" font-size="10" fill="#6272a4" text-anchor="end">400</text>
+  <line x1="31" y1="100" x2="35" y2="100" stroke="#6272a4"/>
+  <text x="29" y="103" font-size="10" fill="#6272a4" text-anchor="end">600</text>
+  <line x1="31" y1="82" x2="35" y2="82" stroke="#6272a4"/>
+  <text x="29" y="85" font-size="10" fill="#6272a4" text-anchor="end">800</text>
+  <line x1="31" y1="64" x2="35" y2="64" stroke="#6272a4"/>
+  <text x="29" y="67" font-size="10" fill="#6272a4" text-anchor="end">1k</text>
   <line x1="31" y1="45" x2="35" y2="45" stroke="#6272a4"/>
-  <text x="29" y="48" font-size="10" fill="#6272a4" text-anchor="end">1k</text>
+  <text x="29" y="48" font-size="10" fill="#6272a4" text-anchor="end">1.2k</text>
   <line x1="35" y1="155" x2="325" y2="155" stroke="#6272a4"/>
-  <rect x="35.00" y="75.80" width="36.29" height="79.20" rx="2" fill="#7963a1"><title>Mon — 720 commits</title></rect>
+  <rect x="35.00" y="89.00" width="36.29" height="66.00" rx="2" fill="#7963a1"><title>Mon — 720 commits</title></rect>
   <text x="53.14" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Mon</text>
-  <rect x="77.29" y="88.45" width="36.29" height="66.55" rx="2" fill="#7963a1"><title>Tue — 605 commits</title></rect>
+  <rect x="77.29" y="99.54" width="36.29" height="55.46" rx="2" fill="#7963a1"><title>Tue — 605 commits</title></rect>
   <text x="95.43" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Tue</text>
-  <rect x="119.57" y="83.83" width="36.29" height="71.17" rx="2" fill="#7963a1"><title>Wed — 647 commits</title></rect>
+  <rect x="119.57" y="95.60" width="36.29" height="59.40" rx="2" fill="#7963a1"><title>Wed — 648 commits</title></rect>
   <text x="137.71" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Wed</text>
-  <rect x="161.86" y="91.20" width="36.29" height="63.80" rx="2" fill="#7963a1"><title>Thu — 580 commits</title></rect>
+  <rect x="161.86" y="101.83" width="36.29" height="53.17" rx="2" fill="#7963a1"><title>Thu — 580 commits</title></rect>
   <text x="180.00" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Thu</text>
-  <rect x="204.14" y="92.52" width="36.29" height="62.48" rx="2" fill="#7963a1"><title>Fri — 568 commits</title></rect>
+  <rect x="204.14" y="102.75" width="36.29" height="52.25" rx="2" fill="#7963a1"><title>Fri — 570 commits</title></rect>
   <text x="222.29" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Fri</text>
-  <rect x="246.43" y="48.96" width="36.29" height="106.04" rx="2" fill="#bd93f9"><title>Sat — 964 commits</title></rect>
+  <rect x="246.43" y="55.36" width="36.29" height="99.64" rx="2" fill="#bd93f9"><title>Sat — 1087 commits</title></rect>
   <text x="264.57" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Sat</text>
-  <rect x="288.71" y="62.93" width="36.29" height="92.07" rx="2" fill="#7963a1"><title>Sun — 837 commits</title></rect>
+  <rect x="288.71" y="76.62" width="36.29" height="78.38" rx="2" fill="#7963a1"><title>Sun — 855 commits</title></rect>
   <text x="306.86" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Sun</text>
 </svg>
