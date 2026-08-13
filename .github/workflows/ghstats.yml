@@ -22,7 +22,7 @@ jobs:
           tz: Asia/Saigon
           start_of_week: monday
           top_repos: "0"
-          commits_per_repo: "500"
+          commits_per_repo: "0"
           include_forks: "true"
           include_private: "true"
           include_org_repos: "false"
