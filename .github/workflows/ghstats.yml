@@ -2,7 +2,7 @@ name: ghstats
 
 on:
   schedule:
-    - cron: "0 17 * * *" # 00:00 UTC+7 daily
+    - cron: "0 17 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,16 +16,18 @@ jobs:
       - uses: tiennm99/ghstats@v1
         with:
           user: ${{ github.repository_owner }}
-          # secrets.GHSTATS_TOKEN is a classic PAT with read:user + repo for
-          # private stats. Falls back to the auto-issued github.token, which
-          # can read public user data and push card commits but can't see
-          # private repos.
           token: ${{ secrets.GHSTATS_TOKEN || github.token }}
-          themes: dracula
           out: ghstats
+          themes: dracula
           tz: Asia/Saigon
           start_of_week: monday
+          top_repos: "0"
+          commits_per_repo: "500"
           include_forks: "true"
           include_private: "true"
+          include_org_repos: "false"
           commit_changes: "true"
           commit_message: "chore: refresh ghstats cards"
+          commit_branch: ""
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
