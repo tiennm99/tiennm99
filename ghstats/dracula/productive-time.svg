@@ -52,6 +52,6 @@
   <rect x="277.50" y="69.51" width="11.12" height="85.49" rx="2" fill="#bd93f9"><title>20:00 — 272 commits</title></rect>
   <rect x="289.62" y="47.83" width="11.12" height="107.17" rx="2" fill="#bd93f9"><title>21:00 — 341 commits</title></rect>
   <rect x="301.75" y="56.63" width="11.12" height="98.37" rx="2" fill="#bd93f9"><title>22:00 — 313 commits</title></rect>
-  <rect x="313.88" y="68.89" width="11.12" height="86.11" rx="2" fill="#bd93f9"><title>23:00 — 274 commits</title></rect>
+  <rect x="313.88" y="69.20" width="11.12" height="85.80" rx="2" fill="#bd93f9"><title>23:00 — 273 commits</title></rect>
   <text x="180" y="189" font-size="11" fill="#6272a4" text-anchor="middle">hour of day</text>
 </svg>
