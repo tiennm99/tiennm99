@@ -15,18 +15,18 @@
   <line x1="31" y1="45" x2="35" y2="45" stroke="#6272a4"/>
   <text x="29" y="48" font-size="10" fill="#6272a4" text-anchor="end">1k</text>
   <line x1="35" y1="155" x2="325" y2="155" stroke="#6272a4"/>
-  <rect x="35.00" y="77.12" width="36.29" height="77.88" rx="2" fill="#7963a1"><title>Mon — 708 commits</title></rect>
+  <rect x="35.00" y="69.75" width="36.29" height="85.25" rx="2" fill="#7963a1"><title>Mon — 775 commits</title></rect>
   <text x="53.14" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Mon</text>
-  <rect x="77.29" y="84.38" width="36.29" height="70.62" rx="2" fill="#7963a1"><title>Tue — 642 commits</title></rect>
+  <rect x="77.29" y="83.39" width="36.29" height="71.61" rx="2" fill="#7963a1"><title>Tue — 651 commits</title></rect>
   <text x="95.43" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Tue</text>
   <rect x="119.57" y="78.99" width="36.29" height="76.01" rx="2" fill="#7963a1"><title>Wed — 691 commits</title></rect>
   <text x="137.71" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Wed</text>
-  <rect x="161.86" y="97.25" width="36.29" height="57.75" rx="2" fill="#7963a1"><title>Thu — 525 commits</title></rect>
+  <rect x="161.86" y="97.58" width="36.29" height="57.42" rx="2" fill="#7963a1"><title>Thu — 522 commits</title></rect>
   <text x="180.00" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Thu</text>
-  <rect x="204.14" y="93.62" width="36.29" height="61.38" rx="2" fill="#7963a1"><title>Fri — 558 commits</title></rect>
+  <rect x="204.14" y="91.20" width="36.29" height="63.80" rx="2" fill="#7963a1"><title>Fri — 580 commits</title></rect>
   <text x="222.29" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Fri</text>
   <rect x="246.43" y="60.95" width="36.29" height="94.05" rx="2" fill="#bd93f9"><title>Sat — 855 commits</title></rect>
   <text x="264.57" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Sat</text>
-  <rect x="288.71" y="90.10" width="36.29" height="64.90" rx="2" fill="#7963a1"><title>Sun — 590 commits</title></rect>
+  <rect x="288.71" y="89.33" width="36.29" height="65.67" rx="2" fill="#7963a1"><title>Sun — 597 commits</title></rect>
   <text x="306.86" y="169" font-size="10" fill="#6272a4" text-anchor="middle">Sun</text>
 </svg>
