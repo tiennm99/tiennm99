@@ -16,7 +16,7 @@ jobs:
       - uses: tiennm99/ghglance@v1
         with:
           user: ${{ github.repository_owner }}
-          token: ${{ secrets.GHSTATS_TOKEN || github.token }}
+          token: ${{ secrets.GHGLANCE_TOKEN || github.token }}
           out: out
           themes: dracula
           tz: Asia/Saigon
