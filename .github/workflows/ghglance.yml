@@ -1,4 +1,4 @@
-name: ghstats
+name: ghglance
 
 on:
   schedule:
@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: tiennm99/ghstats@v1
+      - uses: tiennm99/ghglance@v1
         with:
           user: ${{ github.repository_owner }}
           token: ${{ secrets.GHSTATS_TOKEN || github.token }}
-          out: ghstats
+          out: ghglance
           themes: dracula
           tz: Asia/Saigon
           start_of_week: monday
@@ -27,7 +27,7 @@ jobs:
           include_private: "true"
           include_org_repos: "false"
           commit_changes: "true"
-          commit_message: "chore: refresh ghstats cards"
+          commit_message: "chore: refresh ghglance cards"
           commit_branch: ""
           author_name: "github-actions[bot]"
           author_email: "41898282+github-actions[bot]@users.noreply.github.com"
