@@ -17,7 +17,7 @@ jobs:
         with:
           user: ${{ github.repository_owner }}
           token: ${{ secrets.GHSTATS_TOKEN || github.token }}
-          out: ghglance
+          out: out
           themes: dracula
           tz: Asia/Saigon
           start_of_week: monday

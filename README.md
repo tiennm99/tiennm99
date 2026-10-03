@@ -40,37 +40,37 @@ My favorite username — `miti99` — is a creative fusion of my Vietnamese name
 
 <table>
 <tr>
-<td><img src="./ghglance/dracula/profile-details.svg" alt="profile" /></td>
-<td><img src="./ghglance/dracula/stats.svg" alt="stats" /></td>
+<td><img src="./out/dracula/profile-details.svg" alt="profile" /></td>
+<td><img src="./out/dracula/stats.svg" alt="stats" /></td>
 </tr>
 <tr>
-<td><img src="./ghglance/dracula/repos-per-language.svg" alt="repos per language" /></td>
-<td><img src="./ghglance/dracula/top-starred-repos.svg" alt="top starred repos" /></td>
+<td><img src="./out/dracula/repos-per-language.svg" alt="repos per language" /></td>
+<td><img src="./out/dracula/top-starred-repos.svg" alt="top starred repos" /></td>
 </tr>
 <tr>
-<td><img src="./ghglance/dracula/contributions-by-year.svg" alt="contributions by year" /></td>
-<td><img src="./ghglance/dracula/contributions-heatmap.svg" alt="contributions heatmap" /></td>
+<td><img src="./out/dracula/contributions-by-year.svg" alt="contributions by year" /></td>
+<td><img src="./out/dracula/contributions-heatmap.svg" alt="contributions heatmap" /></td>
 </tr>
 <tr>
-<td><img src="./ghglance/dracula/records.svg" alt="records" /></td>
-<td><img src="./ghglance/dracula/streak.svg" alt="streak" /></td>
+<td><img src="./out/dracula/records.svg" alt="records" /></td>
+<td><img src="./out/dracula/streak.svg" alt="streak" /></td>
 </tr>
 <tr><th>Last year</th><th>All time</th></tr>
 <tr>
-<td><img src="./ghglance/dracula/most-commit-language.svg" alt="most commit language last year" /></td>
-<td><img src="./ghglance/dracula/most-commit-language-all-time.svg" alt="most commit language all time" /></td>
+<td><img src="./out/dracula/most-commit-language.svg" alt="most commit language last year" /></td>
+<td><img src="./out/dracula/most-commit-language-all-time.svg" alt="most commit language all time" /></td>
 </tr>
 <tr>
-<td><img src="./ghglance/dracula/contributions.svg" alt="contributions last year" /></td>
-<td><img src="./ghglance/dracula/contributions-all-time.svg" alt="contributions all time" /></td>
+<td><img src="./out/dracula/contributions.svg" alt="contributions last year" /></td>
+<td><img src="./out/dracula/contributions-all-time.svg" alt="contributions all time" /></td>
 </tr>
 <tr>
-<td><img src="./ghglance/dracula/productive-weekday.svg" alt="productive weekday last year" /></td>
-<td><img src="./ghglance/dracula/productive-weekday-all-time.svg" alt="productive weekday all time" /></td>
+<td><img src="./out/dracula/productive-weekday.svg" alt="productive weekday last year" /></td>
+<td><img src="./out/dracula/productive-weekday-all-time.svg" alt="productive weekday all time" /></td>
 </tr>
 <tr>
-<td><img src="./ghglance/dracula/productive-time.svg" alt="productive time last year" /></td>
-<td><img src="./ghglance/dracula/productive-time-all-time.svg" alt="productive time all time" /></td>
+<td><img src="./out/dracula/productive-time.svg" alt="productive time last year" /></td>
+<td><img src="./out/dracula/productive-time-all-time.svg" alt="productive time all time" /></td>
 </tr>
 </table>
 
