@@ -2,24 +2,24 @@
   <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#282a36" stroke="#282a36" stroke-opacity="1.00"/>
   <text x="20" y="30" font-size="15" font-weight="600" fill="#ff79c6">Most Commit Language (last year)</text>
   <rect x="20" y="47" width="10" height="10" fill="#f1e05a" stroke="#282a36" stroke-width="1"/>
-  <text x="36" y="55" font-size="11" fill="#ffb86c">JavaScript 33.72%</text>
+  <text x="36" y="55" font-size="11" fill="#ffb86c">JavaScript 35.32%</text>
   <rect x="20" y="67" width="10" height="10" fill="#00ADD8" stroke="#282a36" stroke-width="1"/>
-  <text x="36" y="75" font-size="11" fill="#ffb86c">Go 29.68%</text>
+  <text x="36" y="75" font-size="11" fill="#ffb86c">Go 28.70%</text>
   <rect x="20" y="87" width="10" height="10" fill="#e34c26" stroke="#282a36" stroke-width="1"/>
-  <text x="36" y="95" font-size="11" fill="#ffb86c">HTML 10.96%</text>
-  <rect x="20" y="107" width="10" height="10" fill="#dea584" stroke="#282a36" stroke-width="1"/>
-  <text x="36" y="115" font-size="11" fill="#ffb86c">Rust 4.21%</text>
-  <rect x="20" y="127" width="10" height="10" fill="#ff3e00" stroke="#282a36" stroke-width="1"/>
-  <text x="36" y="135" font-size="11" fill="#ffb86c">Svelte 3.97%</text>
+  <text x="36" y="95" font-size="11" fill="#ffb86c">HTML 10.49%</text>
+  <rect x="20" y="107" width="10" height="10" fill="#ff3e00" stroke="#282a36" stroke-width="1"/>
+  <text x="36" y="115" font-size="11" fill="#ffb86c">Svelte 4.75%</text>
+  <rect x="20" y="127" width="10" height="10" fill="#dea584" stroke="#282a36" stroke-width="1"/>
+  <text x="36" y="135" font-size="11" fill="#ffb86c">Rust 4.03%</text>
   <rect x="20" y="147" width="10" height="10" fill="#3572A5" stroke="#282a36" stroke-width="1"/>
-  <text x="36" y="155" font-size="11" fill="#ffb86c">Python 3.76%</text>
+  <text x="36" y="155" font-size="11" fill="#ffb86c">Python 3.60%</text>
   <rect x="20" y="167" width="10" height="10" fill="#bd93f9" stroke="#282a36" stroke-width="1"/>
-  <text x="36" y="175" font-size="11" fill="#ffb86c">Other 13.70%</text>
-  <path d="M250.00,55.00 A55.00,55.00 0 0 1 296.95,138.65 L275.61,125.63 A30.00,30.00 0 0 0 250.00,80.00 Z" fill="#f1e05a" stroke="#282a36" stroke-width="1.5"/>
-  <path d="M296.95,138.65 A55.00,55.00 0 0 1 208.96,146.62 L227.62,129.97 A30.00,30.00 0 0 0 275.61,125.63 Z" fill="#00ADD8" stroke="#282a36" stroke-width="1.5"/>
-  <path d="M208.96,146.62 A55.00,55.00 0 0 1 195.04,112.19 L220.02,111.20 A30.00,30.00 0 0 0 227.62,129.97 Z" fill="#e34c26" stroke="#282a36" stroke-width="1.5"/>
-  <path d="M195.04,112.19 A55.00,55.00 0 0 1 196.38,97.75 L220.75,103.32 A30.00,30.00 0 0 0 220.02,111.20 Z" fill="#dea584" stroke="#282a36" stroke-width="1.5"/>
-  <path d="M196.38,97.75 A55.00,55.00 0 0 1 201.06,84.90 L223.31,96.31 A30.00,30.00 0 0 0 220.75,103.32 Z" fill="#ff3e00" stroke="#282a36" stroke-width="1.5"/>
-  <path d="M201.06,84.90 A55.00,55.00 0 0 1 208.30,74.14 L227.26,90.44 A30.00,30.00 0 0 0 223.31,96.31 Z" fill="#3572A5" stroke="#282a36" stroke-width="1.5"/>
-  <path d="M208.30,74.14 A55.00,55.00 0 0 1 250.00,55.00 L250.00,80.00 A30.00,30.00 0 0 0 227.26,90.44 Z" fill="#bd93f9" stroke="#282a36" stroke-width="1.5"/>
+  <text x="36" y="175" font-size="11" fill="#ffb86c">Other 13.11%</text>
+  <path d="M250.00,55.00 A55.00,55.00 0 0 1 293.85,143.20 L273.92,128.11 A30.00,30.00 0 0 0 250.00,80.00 Z" fill="#f1e05a" stroke="#282a36" stroke-width="1.5"/>
+  <path d="M293.85,143.20 A55.00,55.00 0 0 1 207.59,145.02 L226.87,129.10 A30.00,30.00 0 0 0 273.92,128.11 Z" fill="#00ADD8" stroke="#282a36" stroke-width="1.5"/>
+  <path d="M207.59,145.02 A55.00,55.00 0 0 1 195.03,111.71 L220.01,110.93 A30.00,30.00 0 0 0 226.87,129.10 Z" fill="#e34c26" stroke="#282a36" stroke-width="1.5"/>
+  <path d="M195.03,111.71 A55.00,55.00 0 0 1 196.96,95.45 L221.07,102.06 A30.00,30.00 0 0 0 220.01,110.93 Z" fill="#ff3e00" stroke="#282a36" stroke-width="1.5"/>
+  <path d="M196.96,95.45 A55.00,55.00 0 0 1 202.29,82.63 L223.98,95.07 A30.00,30.00 0 0 0 221.07,102.06 Z" fill="#dea584" stroke="#282a36" stroke-width="1.5"/>
+  <path d="M202.29,82.63 A55.00,55.00 0 0 1 209.65,72.62 L227.99,89.61 A30.00,30.00 0 0 0 223.98,95.07 Z" fill="#3572A5" stroke="#282a36" stroke-width="1.5"/>
+  <path d="M209.65,72.62 A55.00,55.00 0 0 1 250.00,55.00 L250.00,80.00 A30.00,30.00 0 0 0 227.99,89.61 Z" fill="#bd93f9" stroke="#282a36" stroke-width="1.5"/>
 </svg>
