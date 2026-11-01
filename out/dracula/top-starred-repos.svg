@@ -6,16 +6,16 @@
   <rect x="150" y="47" width="120" height="10" rx="3" fill="#bd93f9" fill-opacity="0.15"/>
   <rect x="150" y="47" width="120.00" height="10" rx="3" fill="#bd93f9"/>
   <text x="334" y="55" font-size="12" font-weight="600" fill="#bd93f9" text-anchor="end">4 ★</text>
-  <circle cx="24" cy="71" r="4" fill="#e34c26"/>
-  <text x="34" y="75" font-size="12" fill="#ffb86c">penny-pincher-pr…</text>
+  <circle cx="24" cy="71" r="4" fill="#00ADD8"/>
+  <text x="34" y="75" font-size="12" fill="#ffb86c">genshin-reposito…</text>
   <rect x="150" y="67" width="120" height="10" rx="3" fill="#bd93f9" fill-opacity="0.15"/>
   <rect x="150" y="67" width="60.00" height="10" rx="3" fill="#bd93f9"/>
   <text x="334" y="75" font-size="12" font-weight="600" fill="#bd93f9" text-anchor="end">2 ★</text>
-  <circle cx="24" cy="91" r="4" fill="#00ADD8"/>
-  <text x="34" y="95" font-size="12" fill="#ffb86c">genshin-reposito…</text>
+  <circle cx="24" cy="91" r="4" fill="#e34c26"/>
+  <text x="34" y="95" font-size="12" fill="#ffb86c">penny-pincher-pr…</text>
   <rect x="150" y="87" width="120" height="10" rx="3" fill="#bd93f9" fill-opacity="0.15"/>
-  <rect x="150" y="87" width="30.00" height="10" rx="3" fill="#bd93f9"/>
-  <text x="334" y="95" font-size="12" font-weight="600" fill="#bd93f9" text-anchor="end">1 ★</text>
+  <rect x="150" y="87" width="60.00" height="10" rx="3" fill="#bd93f9"/>
+  <text x="334" y="95" font-size="12" font-weight="600" fill="#bd93f9" text-anchor="end">2 ★</text>
   <circle cx="24" cy="111" r="4" fill="#00ADD8"/>
   <text x="34" y="115" font-size="12" fill="#ffb86c">traefik-cloudfla…</text>
   <rect x="150" y="107" width="120" height="10" rx="3" fill="#bd93f9" fill-opacity="0.15"/>
